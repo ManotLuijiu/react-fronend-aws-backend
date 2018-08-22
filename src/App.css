@@ -1,0 +1,40 @@
+.App-logo {
+  width: 50px;
+}
+
+.bg-custom {
+  background-color: #233041;
+}
+
+.btn-custom {
+  background-color: #233041;
+  color: #ffffff;
+}
+
+i {
+  cursor: pointer;
+}
+
+i.fa-times {
+  color: red;
+  float: right;
+}
+
+i.fa-pencil-alt {
+  cursor: pointer;
+  float: right;
+  color: black;
+  margin-right: 1rem;
+}
+
+h6 {
+  color: #ffffff;
+}
+
+.footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  height: 60px;
+  background-color: #233041;
+}
